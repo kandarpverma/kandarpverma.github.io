@@ -113,7 +113,7 @@ const techStack = {
     },
     {
       Stack: "Backend",
-      progressPercentage: "90%"
+      progressPercentage: "95%"
     },
     {
       Stack: "Programming (Data Structures and Algorithms)",
@@ -196,7 +196,7 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
+  title: "Projects",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
